@@ -77,6 +77,3 @@
       <p>content+=”</ table>”</p>
       <p>output_file.write(content)</p>
       <p>output_file.close()</p>
-    </div>
-  </body>
-</html>
