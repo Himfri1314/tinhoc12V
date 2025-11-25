@@ -19,7 +19,7 @@
 .banner {
     width: 100%;
     height: 300px;
-    background-image: url('bai9.jpg');
+    background-image: url('xanh.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
