@@ -37,7 +37,7 @@
     <h1 style="text-align:center;text-decorating: none; color: #243b9a; padding: 0 30px;">LUYỆN TẬP</h1>
   </div>
   <div style="background-color: #FFFFFF; padding: 10px;">
-  		<h2>Luyện tập: Sửa lại chương trình trong Hình 9.5a, sử dụng thuộc tính Style thay vì thuộc tính border để tạo viền cho bảng. Sử dụng màu xanh cho viền của ô hai dòng đầu bảng và sử dụng 3 màu đỏ, vàng, xanh cho ba chữ Toán, Vật lý và Hóa học.</h2> 
+  		<h2>Sửa lại chương trình trong Hình 9.5a, sử dụng thuộc tính Style thay vì thuộc tính border để tạo viền cho bảng. Sử dụng màu xanh cho viền của ô hai dòng đầu bảng và sử dụng 3 màu đỏ, vàng, xanh cho ba chữ Toán, Vật lý và Hóa học.</h2> 
   </div>
   		<p>< table style="border: 3px solid"></p>
       <p>< tr> </p>
@@ -54,7 +54,7 @@
     <h1 style="text-align:center;text-decorating: none; color: #243b9a; padding: 0 30px;">VẬN DỤNG</h1>
   </div>
           <div style="background-color: #FFFFFF; padding: 10px;">
-        <h2>Vận dụng: Cho trước một bảng dữ liệu cỡ nx4, mỗi hàng tương ứng với một bộ (họ tên, điểm Toán, điểm Vật lý, điểm Hóa học) viết chương trình Python để tạo ra tệp HTML thực hiện việc vẽ bảng tương tự như Hình 9.5 và bổ sung dữ liệu vào các hàng phía dưới.</h2>
+        <h2>Cho trước một bảng dữ liệu cỡ nx4, mỗi hàng tương ứng với một bộ (họ tên, điểm Toán, điểm Vật lý, điểm Hóa học) viết chương trình Python để tạo ra tệp HTML thực hiện việc vẽ bảng tương tự như Hình 9.5 và bổ sung dữ liệu vào các hàng phía dưới.</h2>
           </div>
       <p>data_input = [ [ ‘ Nguyen Van A ’ , 10, 9, 8 ] , [ ‘ Tran Van B ’ , 9, 9.5, 8.5 ] , [ ‘ Pham Thi C ’ , 9.5, 9.5, 9 ] ]</p>
       <p>output_file=open(“D:\TIN12-KNTT\B9-Vandung.html”,“w”,</p>
